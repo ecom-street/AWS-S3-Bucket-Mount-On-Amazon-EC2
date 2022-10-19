@@ -1,4 +1,4 @@
-# AWS-S3-Bucket-Mt-ounOn-Amazon-EC2
+# AWS-S3-Bucket-Mount-On-Amazon-EC2
 # We will learn how to use S3 as a filesystem on EC2 Linux machine.
 
 <img width="534" alt="s1" src="https://user-images.githubusercontent.com/115148205/196610521-48ae4218-1ffe-47de-a187-7280aced8833.PNG">
